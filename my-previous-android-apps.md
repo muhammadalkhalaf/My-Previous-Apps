@@ -1,6 +1,6 @@
   ## My Previous Android Apps
   
-* [Raiyq](https://github.com/muhammadalkhalaf/My-Previous-Apps/raw/master/APK%20Files/Raiyq-debug.apk) social media app contains funny pics and videos posts
+* [Raiyq](https://play.google.com/store/apps/details?id=com.raiyq) social media app contains funny pics and videos posts
 <img src="https://github.com/muhammadalkhalaf/My-Previous-Apps/blob/master/GIF%20Images/Raiyq_preview.gif" width="350" height="600" />
 
 ---
