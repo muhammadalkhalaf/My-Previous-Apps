@@ -1,4 +1,4 @@
-# [Medrics Apps](https://www.youtube.com/channel/UCkIeXpnfQwgBxLZh9JJUbww/videos)
+# Medrics Apps
 
 * [Mersin Şehir Hastanesi](https://apps.apple.com/tr/app/mersin-%C5%9Fehir-hastanesi/id1305138122?l=tr)
 
@@ -7,4 +7,6 @@
 * [Medicana Sağlık Grubu](https://apps.apple.com/tr/app/medicana-mobil-uygulamas%C4%B1/id1446269061?l=tr)
 
 * [Bahat Sağlık Grubu](https://apps.apple.com/tr/app/bht-clinic/id1496360299?l=tr)
+
+* [Video Previews](https://www.youtube.com/channel/UCkIeXpnfQwgBxLZh9JJUbww/videos)
 
