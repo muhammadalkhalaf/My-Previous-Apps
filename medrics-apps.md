@@ -1,4 +1,4 @@
-# Medrics Apps  
+# [Medrics Apps](https://www.youtube.com/channel/UCkIeXpnfQwgBxLZh9JJUbww/videos)
 
 * [Mersin Şehir Hastanesi](https://apps.apple.com/tr/app/mersin-%C5%9Fehir-hastanesi/id1305138122?l=tr)
 
