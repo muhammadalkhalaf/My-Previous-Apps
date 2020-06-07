@@ -6,5 +6,5 @@
 
 * [Medicana Sağlık Grubu](https://apps.apple.com/tr/app/medicana-mobil-uygulamas%C4%B1/id1446269061?l=tr)
 
-* [Bahat Sağlık Grubu](https://apps.apple.com/tr/developer/bahat-sa%C4%9Fl%C4%B1k-grubu/id1496360298?l=tr)
+* [Bahat Sağlık Grubu](https://apps.apple.com/tr/app/bht-clinic/id1496360299?l=tr)
 
