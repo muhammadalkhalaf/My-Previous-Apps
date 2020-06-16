@@ -10,3 +10,5 @@
 
 * [Video Previews](https://www.youtube.com/channel/UCkIeXpnfQwgBxLZh9JJUbww/videos)
 
+* [Secret CV](https://apps.apple.com/tr/app/secretcv-is-ilanlar/id951011688) (Only Maintenance)
+
