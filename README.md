@@ -4,6 +4,5 @@
 
 * [iOS App](https://github.com/muhammadalkhalaf/My-Previous-Apps/blob/master/my-previous-ios-app.md)
 
-* [Watch My CV](https://docs.google.com/viewer?url=https://github.com/muhammadalkhalaf/My-Previous-Apps/raw/master/My_CV.pdf
-)
+* [My CV](https://muhammadalkhalaf.github.io/My-Resume/)
 ---
