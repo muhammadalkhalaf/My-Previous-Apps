@@ -1,6 +1,6 @@
-## [Vatan SMS](https://play.google.com/store/apps/details?id=tr.com.semicolon.vatansms) provide bulk SMS service through Turkish mobile operators  
+## [Vatan SMS](https://play.google.com/store/apps/details?id=com.vatan.sms) provide bulk SMS service through Turkish mobile operators  
 
-<a href="https://play.google.com/store/apps/details?id=tr.com.semicolon.vatansms" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.vatan.sms" target="_blank">
             <img src="https://github.com/muhammadalkhalaf/My-Previous-Apps/blob/master/google-play-badge.png" width="150">
           </a>  
   
